@@ -4,7 +4,7 @@ This project is a Python-based Sentiment Analysis tool designed to analyze publi
 
 🔹 Key Features
 
-1. **Real-Time Tweet Fetching
+1. Real-Time Tweet Fetching
 
    * Connects to the Twitter API to gather tweets dynamically.
    * Users can input a keyword or hashtag to filter and collect relevant tweets.
